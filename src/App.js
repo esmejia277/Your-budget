@@ -4,7 +4,6 @@ import Form from './components/Form';
 import ListExpenses from './components/ListExpenses';
 import ControlBudget from './components/ControlBudget';
 
-
 function App() {
 
   const [budget, setBudget] = useState(0);
